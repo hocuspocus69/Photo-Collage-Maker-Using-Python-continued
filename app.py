@@ -30,7 +30,7 @@ st.markdown(
          <style>
          .stApp {{
              # background-image: url("https://4kwallpapers.com/images/wallpapers/embarrassment-3840x2160-16536.jpeg");
-             background-image: linear-gradient(#2e7bcf,#2e7bcf);
+             background-image: linear-gradient(#2e7bcf,#ffffff);
              # background-attachment: fixed;
              # background-size: cover
             
