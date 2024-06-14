@@ -32,8 +32,8 @@ st.markdown(
              # background-image: url("https://4kwallpapers.com/images/wallpapers/embarrassment-3840x2160-16536.jpeg");
              # background-attachment: fixed;
              # background-size: cover
-             : color-background black
-             : color white
+             color-background: black;
+             color: white;
          }}
          </style>
          """,
