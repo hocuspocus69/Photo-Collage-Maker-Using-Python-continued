@@ -29,9 +29,10 @@ st.markdown(
          f"""
          <style>
          .stApp {{
-             background-image: url("https://4kwallpapers.com/images/wallpapers/macos-monterey-wwdc-21-stock-dark-mode-5k-4480x2520-5585.jpg");
+             background-image: url("https://4kwallpapers.com/images/wallpapers/embarrassment-3840x2160-16536.jpeg");
              background-attachment: fixed;
              background-size: cover
+             color: white
          }}
          </style>
          """,
